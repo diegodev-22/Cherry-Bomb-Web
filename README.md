@@ -2,7 +2,7 @@
 
 ![Cherry Bomb Logo](/public/Logo_CHERRY_BOMB.png)
 
-> Mi plataforma de e-commerce enfocada en moda, diseñada para cerrar ventas directamente por WhatsApp.
+> La plataforma de e-commerce enfocada en moda, diseñada para cerrar ventas directamente por WhatsApp.
 
 <div align="center">
 
